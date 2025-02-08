@@ -1,2 +1,2 @@
 # MelonamaDetection
-Melanoma detection
+This project focuses on developing a custom convolutional neural network (CNN) to accurately identify melanoma from skin lesion images. Its primary objective is to support dermatologists in the early detection of melanoma, a critical factor in saving lives. The model is trained using the International Skin Imaging Collaboration (ISIC) dataset, which includes a diverse collection of skin lesion images classified into various disease types, including melanoma.
